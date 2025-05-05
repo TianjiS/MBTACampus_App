@@ -1,0 +1,41 @@
+day_of_week,start_time,end_time,station_name,congestion_level
+Monday,09:30,10:10,Babcock Street,4
+Monday,09:30,10:10,Amory Street,4
+Monday,12:00,14:00,Amory Street,3
+Monday,12:00,14:00,Boston University Central,4
+Monday,12:00,14:00,Boston University East,3
+Monday,17:00,19:00,Amory Street,5
+Monday,17:00,19:00,Boston University Central,5
+Monday,17:00,19:00,Boston University East,4
+Tuesday,09:30,10:10,Babcock Street,4
+Tuesday,09:30,10:10,Amory Street,4
+Tuesday,12:00,14:00,Amory Street,3
+Tuesday,12:00,14:00,Boston University Central,4
+Tuesday,12:00,14:00,Boston University East,3
+Tuesday,17:00,19:00,Amory Street,5
+Tuesday,17:00,19:00,Boston University Central,5
+Tuesday,17:00,19:00,Boston University East,4
+Wednesday,09:30,10:10,Babcock Street,4
+Wednesday,09:30,10:10,Amory Street,4
+Wednesday,12:00,14:00,Amory Street,3
+Wednesday,12:00,14:00,Boston University Central,4
+Wednesday,12:00,14:00,Boston University East,3
+Wednesday,17:00,19:00,Amory Street,5
+Wednesday,17:00,19:00,Boston University Central,5
+Wednesday,17:00,19:00,Boston University East,4
+Thursday,09:30,10:10,Babcock Street,4
+Thursday,09:30,10:10,Amory Street,4
+Thursday,12:00,14:00,Amory Street,3
+Thursday,12:00,14:00,Boston University Central,4
+Thursday,12:00,14:00,Boston University East,3
+Thursday,17:00,19:00,Amory Street,5
+Thursday,17:00,19:00,Boston University Central,5
+Thursday,17:00,19:00,Boston University East,4
+Friday,09:30,10:10,Babcock Street,4
+Friday,09:30,10:10,Amory Street,4
+Friday,12:00,14:00,Amory Street,3
+Friday,12:00,14:00,Boston University Central,4
+Friday,12:00,14:00,Boston University East,3
+Friday,17:00,19:00,Amory Street,5
+Friday,17:00,19:00,Boston University Central,5
+Friday,17:00,19:00,Boston University East,4

@@ -1,0 +1,24 @@
+building_id,building_name,campus,closest_station,time_to_station
+1,College of Arts & Sci,Central,BU Central,8
+2,Questrom School,East,Blandford Street,3
+3,FitRec,West,Babcock Street,6
+4,Agganis Arena,West,Babcock Street,3
+5,Warren Towers,Central,BU Central,5
+6,Cummington Mall,Central,BU Central,6
+7,Photonics,Central,BU Central,4
+8,Duan's Family Building (CDS),Central,BU East,3
+9,College of Fine Arts,Central,Amory Street,3
+10,College of Communication,Central,BU Central,4
+11,Fuller's,Central,BU East,5
+12,GSU/Mugar,Central,BU Central,5
+13,College of General Studies,,Amory Street,2
+14,College of Communication,East,BU East,8
+15,College of Fine Arts,East,BU East,7
+16,Metropolitan College,Central,BU Central,7
+17,School of Law,Central,BU Central,6
+18,School of Medicine,East,BU East,9
+19,Rich Hall,West,Babcock Street,5
+20,Sleeper Hall,West,Babcock Street,4
+21,Claflin Hall,West,Babcock Street,4
+22,Student Village,West,Amory Street,5
+23,Student Health Service,West,,
